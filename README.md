@@ -16,9 +16,20 @@ After initial talks, I managed to find a long forgotten platform sitting in a st
 </p>
 Image showing examples of WAMV platforms
 
+The aquisition of the platform was the official start of the project and gave me a way to better explain my vision and goals and give a visual aid for other to get excited about the project. 
 
 ### Stage 1 - Float
-This stage was intended to secure the base systems and Building blocks of the vessel. This included aquiring the hull and structure of the craft, developing the business cases for future stages
+This stage was intended to secure the base systems and Building blocks of the vessel. This included getting a workshop and space to do the development, get the vessel moved and assembled there, develop risk assesments, business cases and secure the main propulsion components such as the Electric Outboards and battery systems, the main costs of the proejct. The funding of project was done in a fairly unique way, will all contributors retaining ownership of the components and IP that they provide. This means there wasn't a need to organise bank accounts, with contributors delivering equipment purchased within their own systems.
+
++++ Not yet fionished +++
+
+### Stage 2 - Move
+
+### Stage 3 - Tele-operate
+
+### Stage 4 - Mission planning
+
+### Stage 5 - Sensor integration
 
 # Project Management
 To organise the project and break it down into the core taks that need to be completed, an agile project managemnt system was utelised. this link -> https://docs.google.com/spreadsheets/d/1rsHpsMl9O3Xk29A3Vhb1ZHtHEM5JFyOwDIDMKjxazJs is an example of the system used. 
