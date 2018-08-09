@@ -25,17 +25,11 @@ To instal git on your computer:
 Pretty easy. Windows and Mac, go here: https://gist.github.com/derhuerst/1b15ff4652a867391f03
 
 I have attched a 'cheat sheet' below, these are the basic commands I use from the command line, I find it useful. 
+
 <p align="center">
   <img width="460" height="250" src="https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png
 ">
 </p>
+ 
 
-On the topic of attaching images, you can inster images into your '.md' files with the following section within your file:
-
-"<p align="center">
-  <img width="460" height="250" src="Web location of image">
-</p>"
-
-I get the web location by going to google images, right clicking on the image I want and clicking "get image info" then copy and paste that link, done. 
-
-Like I said, Im useless at it, google and stack overflow are your friend, go nuts. 
+Like I said, I'm useless at it, google and stack overflow are your friend, go nuts. 
