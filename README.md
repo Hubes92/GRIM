@@ -14,7 +14,7 @@ After initial talks, I managed to find a long forgotten platform sitting in a st
 <p align="center">
   <img width="300" height="300" src="https://images.marinelink.com/images/maritime/w300h300c/wamv-usv-photo-marine-advanced-88937.jpg">
 </p>
--Image showing examples of WAMV platforms-
+_Image showing examples of WAMV platforms
 
 
 ### Stage 1 - Float
