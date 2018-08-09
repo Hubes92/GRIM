@@ -14,11 +14,11 @@ After initial talks, I managed to find a long forgotten platform sitting in a st
 <p align="center">
   <img width="300" height="300" src="https://images.marinelink.com/images/maritime/w300h300c/wamv-usv-photo-marine-advanced-88937.jpg">
 </p>
-                                    Image showing examples of WAMV platforms
+                                    *Image showing examples of WAMV platforms*
 
 
 ### Stage 1 - Float
-This stage was intended to secure the base systems and Building blocks of the vessel. This included aquiring the hull and structure of teh craft, developing the business cases for future stages
+This stage was intended to secure the base systems and Building blocks of the vessel. This included aquiring the hull and structure of the craft, developing the business cases for future stages
 
 # Organisations currently contributing
 The following organisations are currently assisitng in the porject, in the provision of parts and equipment, assiting in programming and software devlopment, testing and deployment as well as porject management. All contributions are non-for-profit and the IP is retained by the contributor. The project is being managed by LEUT H Hubbert in his spare time to develop the skill of otehrs in the Navy and foster relationships throughout industry. 
