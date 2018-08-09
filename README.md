@@ -12,7 +12,7 @@ As the title suggests this is the stage in which the project was defined and the
 
 After initial talks, I managed to find a long forgotten platform sitting in a storage space under the DSTG offices in Redfern. THe platform was a 16ft WAM-V made by maritime advanced research in the USA. I had previous experrience in these craft as I was invovled in the development of a craft whilst at University in Tasmania, The Australian Maritime College. The vessel can be seen in the image below, and is a very capable and effective base platform to develop a USV. 
 <p align="center">
-  <img width="460" height="250" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjz6diI_97cAhWGgLwKHRbwBEgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.wam-v.com%2Fproducts%2F&psig=AOvVaw1rOa7EzT-nnxKWB_1u8sgi&ust=1533870505240207">
+  <img width="300" height="300" src="https://images.marinelink.com/images/maritime/w300h300c/wamv-usv-photo-marine-advanced-88937.jpg">
 </p>
 
 ### Stage 1 - Float
