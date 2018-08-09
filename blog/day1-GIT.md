@@ -27,8 +27,7 @@ Pretty easy. Windows and Mac, go here: https://gist.github.com/derhuerst/1b15ff4
 I have attched a 'cheat sheet' below, these are the basic commands I use from the command line, I find it useful. 
 
 <p align="center">
-  <img width="910" height="1301" src="https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png
-">
+  <img width="2550" height="3100" src="https://i0.wp.com/codingsec.net/wp-content/uploads/2016/06/github-git-cheat-sheet-1.png?ssl=1">
 </p>
  
 
