@@ -20,6 +20,10 @@ Image showing examples of WAMV platforms
 ### Stage 1 - Float
 This stage was intended to secure the base systems and Building blocks of the vessel. This included aquiring the hull and structure of the craft, developing the business cases for future stages
 
+# Project Management
+To organise the project and break it down into the core taks that need to be completed, an agile project managemnt system was utelised. this link -> https://docs.google.com/spreadsheets/d/1rsHpsMl9O3Xk29A3Vhb1ZHtHEM5JFyOwDIDMKjxazJs is an example of the system used. 
+
+
 # Organisations currently contributing
 The following organisations are currently assisitng in the porject, in the provision of parts and equipment, assiting in programming and software devlopment, testing and deployment as well as porject management. All contributions are non-for-profit and the IP is retained by the contributor. The project is being managed by LEUT H Hubbert in his spare time to develop the skill of otehrs in the Navy and foster relationships throughout industry. 
 
