@@ -50,6 +50,9 @@ The following organisations are currently assisitng in the porject, in the provi
 <p align="center">
   <img width="320" height="320" src="https://pbs.twimg.com/profile_images/791416563555454977/QzRGG7aA_400x400.jpg">
 </p>
+<p align="center">
+  <img width="460" height="200" src="http://ocius.com.au/wp-content/themes/ocius/assets/img/logo.png">
+</p>
 
 ## Contact Details
 For any further information, feel free to contact Harry Hubbert at harry.hubbert@gmail.com 
