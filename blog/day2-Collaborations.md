@@ -5,4 +5,7 @@ Today I thought I would give my thoughts on how I think working with other organ
 
 Anyone that has been invovled in group proejcts knows they can be a nightmare, project collaborations are much the same, except there is money and reputations on the line that people defend and seems to make them increasingly risk-adverse.
 
-https://img.memecdn.com/group-projects_o_188996.jpg
+<p align="center">
+  <img width="460" height="250" src="https://img.memecdn.com/group-projects_o_188996.jpg">
+</p>
+
