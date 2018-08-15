@@ -39,5 +39,5 @@ All together the wiring with the box installed and wiring up the support arms to
   <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_103715.jpg">
 </p>
 <p align="center">
-  <img width="759" height="1012" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_104007.jpg">
+  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_104007.jpg">
 </p>
