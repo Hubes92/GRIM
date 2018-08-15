@@ -29,3 +29,9 @@ This image shows one of the brackets that keeps the battery boxes where they are
   <img width="759" height="1012" src="https://raw.githubusercontent.com/Hubes92/GRIM/master/images/IMG_20180815_102238.jpg">
 </p>
 
+Now we can see the torquedo motors installed and wired up. 
+<p align="center">
+  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_102533.jpg">
+</p>
+
+
