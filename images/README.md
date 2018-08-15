@@ -34,4 +34,7 @@ Now we can see the torquedo motors installed and wired up.
   <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_102533.jpg">
 </p>
 
-
+All together the wiring with the box installed and wiring up the support arms to the control box. The top right wiring piece is a 3D printed part from Navy operated 3D printers, intended for innovative projects. If this isnt't innovative, I dont know what is. Evenutually, all of the zip-ties will be replaced by these pieces. They will allow faster assembly and packing up, and just look neater.
+<p align="center">
+  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_103715.jpg">
+</p>
