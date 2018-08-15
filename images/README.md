@@ -6,7 +6,7 @@ Below is an image of the aluminium battery boxes constructed by RAN personnel. A
 2. The rest of the boat is aluminium
 3. It is essentially just a 'splash protector' as the batteries are marinised anyways. 
 <p align="center">
-  <img width="4048" height="3036" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090837.jpg">
+  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090837.jpg">
 </p>
 
 
