@@ -16,6 +16,6 @@ If you look at existing WAMV photos from the RobotX competition or commerically,
 5. Around the LCG (Longitudunal Centre of Gravity). From watching videos I saw that a lot of the WAMV platforms trim by the stern, which isnt great for resistance. So keeping the batteries here shouold help with that and make the WAMV sit a bit more even-keel. 
 6. Its something different. Hey, if it doesnt work, we can move it. May as well try it and see how we go. 
 <p align="center">
-  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090837.jpg">
+  <img width="1012" height="759" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090950.jpg">
 </p>
 
