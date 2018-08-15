@@ -20,7 +20,12 @@ If you look at existing WAMV photos from the RobotX competition or commerically,
 
 The image below shows The batteries in their new homes! There is a bit of play, rubber will be installed inside to stop vibration and movement. The base will have automatic drains in the event that water somehow gets in there. 
 <p align="center">
-  <img width="1012" height="659" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090950.jpg">
+  <img width="759" height="1012" src="https://github.com/Hubes92/GRIM/blob/master/images/IMG_20180815_090950.jpg">
 </p>
 
+This image shows one of the brackets that keeps the battery boxes where they are supposed to be. They dont take the weight of the boxes as they are just lower than the deck, but they will have rubber mounts and keep them from moving about. THere are three on each side of each box. They use teh existing bolts that you can see to secure them. Pretty stoked about these actually. 
+
+<p align="center">
+  <img width="759" height="1012" src="https://raw.githubusercontent.com/Hubes92/GRIM/master/images/IMG_20180815_102238.jpg">
+</p>
 
