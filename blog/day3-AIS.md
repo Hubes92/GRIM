@@ -4,8 +4,9 @@ Today I got the AIS reciever for the USV, and went through the process of gettin
 ## Hardware
 
 <p align="center">
-  <img width="460" height="200" src="http://ocius.com.au/wp-content/themes/ocius/assets/img/.png">
+  <img width="599" height="647" src="https://github.com/Hubes92/GRIM/blob/master/images/Screenshot%20from%202018-08-22%2021-27-54.png>
 </p>
+
 ## Software 
 
 
