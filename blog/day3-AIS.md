@@ -15,11 +15,11 @@ Pretty much all you need is a Ubuntu or linux computer an AIS reciever (I have a
 After the hardware is conencted, follow these steps in teh terminal
 
 ### Setting up the dependencies and software 
-  -sudo apt-get install software-properties-common
-  -sudo add-apt-repository ppa:opencpn/opencpn
-  -sudo apt-get update
-  -sudo apt-get install opencpn
-  -sudo apt-get install gpsd gpsd-clients
+  - sudo apt-get install software-properties-common
+  - sudo add-apt-repository ppa:opencpn/opencpn
+  - sudo apt-get update
+  - sudo apt-get install opencpn
+  - sudo apt-get install gpsd gpsd-clients
 
 ### Now we need ot change some permissions on the serial port, mine was:
   -sudo chmod 666 /dev/ttyACM0
